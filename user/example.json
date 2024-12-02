@@ -1,17 +1,17 @@
 {
   "config": {
     "user": {
-      "phone": "工学云手机号",
-      "password": "工学云密码"
+      "phone": "19223432054",
+      "password": "Qq2414723031"
     },
     "clockIn": {
       "location": {
-        "address": "四川省 · 成都市 · 高新区 · 在科创十一街附近",
-        "latitude": "34.059922",
-        "longitude": "118.277435",
-        "province": "四川省",
-        "city": "成都市",
-        "area": "高新区"
+        "address": "广西壮族自治区 · 南宁市 · 西乡塘区 · 南粮众创空间孵化基地",
+        "latitude": "22.856591540756177",
+        "longitude": "108.25635611672354",
+        "province": "广西壮族自治区",
+        "city": "南宁市",
+        "area": "西乡塘区"
       },
       "imageCount": 0,
       "description": [
@@ -26,12 +26,12 @@
         "imageCount": 0
       },
       "weekly": {
-        "enabled": true,
+        "enabled": false,
         "imageCount": 0,
         "submitTime": 4
       },
       "monthly": {
-        "enabled": false,
+        "enabled": true,
         "imageCount": 0,
         "submitTime": 29
       }
